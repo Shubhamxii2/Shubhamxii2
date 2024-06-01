@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development 
 - 🌱 I’m currently learning HTML, CSS and JavaScript 
 - 📫 How to reach me 7673856331
-- 😄 Pronouns: Shubham
+- 😄 Call me Shubham
 
 <!---
 Shubhamxii2/Shubhamxii2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
